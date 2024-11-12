@@ -1,0 +1,14 @@
+{
+  "name": "tresjs-desk-configurator-course",
+  "version": "1.0.0",
+  "packageManager": "pnpm@8.10.2",
+  "description": "Lessons for the TresJS Desk Configurator Course available on Midudev Twitch",
+  "main": "index.js",
+  "scripts": {
+    "dev:starter": "pnpm --filter starter dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alvaro Saburido <hola@alvarosaburido.dev> (https://github.com/alvarosabu/)",
+  "license": "MIT"
+}
