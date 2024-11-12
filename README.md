@@ -1,31 +1,33 @@
-# TresJS 3D Product Configurator
+![](.github/repo-banner.png)
 
-> Repository containing the source code for the "Crear un configurador de escritorio 3D con Vue y TresJS" course on [Midudev Twitch](hhttps://www.twitch.tv/midudev) by [Alvaro Sabu](https://egghead.io/q/resources-by-alvaro-saburido).
+# Configurador de escritorio 3D con Vue y TresJS
+
+> Repositorio que contiene el código fuente para el curso "Crear un configurador de escritorio 3D con Vue y TresJS" disponible en [Midudev Twitch](hhttps://www.twitch.tv/midudev) hecho por [Alvaro Sabu](https://alvarosaburido.dev/).
 >
 
-## Setup
+## Configuración
 
 ```bash
 pnpm install
 ```
 
-## Course starter
+## Proyecto inicial del curso
 
-Inside the `lessons/starter` folder you will find the starter project for the course. It contains the basic setup for the project and the assets needed to follow the lessons.
+Dentro de la carpeta `lessons/starter` encontrarás el proyecto inicial para el curso. Contiene la configuración básica del proyecto y los recursos necesarios para seguir las lecciones.
 
-## Lessons
+## Lecciones
 
-Inside the `lessons` folder you will find the source code for each lesson. Each lesson is a self-contained folder with the source code for that lesson.
+Dentro de la carpeta `lessons` encontrarás el código fuente de cada lección. Cada lección es una carpeta autónoma con el código fuente de esa lección.
 
-Just need to run `pnpm run dev` inside the lesson folder to start the development server or `pnpm run dev:lesson-name` from the root.
+Solo necesitas ejecutar `pnpm run dev` dentro de la carpeta de la lección para iniciar el servidor de desarrollo o `pnpm run dev:lesson-name` desde la raíz.
 
-## License
+## Licencia
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
 
-- Materials used in this course are licensed CC0 from [ambientCG](https://ambientcg.com/). Thanks to Lennart Demes for providing these assets for free so the community can learn and create.
-- Desk models used in this course are licensed CC0 created and modelled by [Alvaro Saburido](https://alvarosaburido.dev/). 
-- Macbook model used in this course is licensed CC0 created and modelled by [sriniwasjha](https://blendswap.com/profile/235176) on [Pmndrs Market](https://market.pmnd.rs/model/macbook).
+- Los materiales utilizados en este curso están licenciados bajo CC0 de [ambientCG](https://ambientcg.com/). Gracias a Lennart Demes por proporcionar estos recursos de forma gratuita para que la comunidad pueda aprender y crear.
+- Los modelos de escritorio utilizados en este curso están licenciados bajo CC0 creados y modelados por [Alvaro Saburido](https://alvarosaburido.dev/).
+- El modelo de Macbook utilizado en este curso está licenciado bajo CC0 creado y modelado por [sriniwasjha](https://blendswap.com/profile/235176) en [Pmndrs Market](https://market.pmnd.rs/model/macbook).
 
 
 
