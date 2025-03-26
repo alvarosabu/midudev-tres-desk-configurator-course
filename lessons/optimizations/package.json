@@ -1,0 +1,44 @@
+{
+  "name": "@tresjs/starter",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Quick starter template for TresJS",
+  "author": "Alvaro Saburido <hola@alvarosaburido.dev> (https://github.com/alvarosabu/)",
+  "license": "MIT",
+  "keywords": [
+    "vue",
+    "tresjs",
+    "webgl",
+    "vite",
+    "3d",
+    "threejs",
+    "three",
+    "threejs-vue"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "dependencies": {
+    "@tresjs/cientos": "4.3.0",
+    "@tresjs/core": "4.3.1",
+    "@tresjs/leches": "https://pkg.pr.new/@tresjs/leches@a22e6d6",
+    "three": "^0.170.0",
+    "vue": "^3.4.32"
+  },
+  "devDependencies": {
+    "@iconify-json/carbon": "^1.2.4",
+    "@tresjs/eslint-config": "^1.1.0",
+    "@types/three": "^0.169.0",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "eslint": "^9.7.0",
+    "typescript": "^5.5.3",
+    "unocss": "^0.64.0",
+    "vite": "^5.3.4",
+    "vite-plugin-glsl": "^1.3.0",
+    "vue-tsc": "^2.0.26"
+  }
+}
