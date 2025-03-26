@@ -2,7 +2,7 @@
 
 # Configurador de escritorio 3D con Vue y TresJS
 
-> Repositorio que contiene el código fuente para el curso "Crear un configurador de escritorio 3D con Vue y TresJS" disponible en [Midudev Twitch](https://www.twitch.tv/midudev) hecho por [Alvaro Sabu](https://alvarosaburido.dev/).
+> Repositorio que contiene el código fuente para el curso "Crear un configurador de escritorio 3D con Vue y TresJS" disponible en [Midudev Courses](https://midu.dev/curso/experiencias-3d-con-vue) hecho por [Alvaro Sabu](https://alvarosaburido.dev/).
 >
 
 ## Configuración
